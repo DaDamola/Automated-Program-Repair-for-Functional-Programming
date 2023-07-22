@@ -1,1 +1,1 @@
-# Automated-Prograrm-Repair-for-Functional-Programming
+# Automated Program Repair for Functional Programming
